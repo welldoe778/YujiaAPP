@@ -55,6 +55,7 @@ public class MainActivity extends AppCompatActivity {
          * ViewPager部分
          */
         viewPager = (ViewPager) findViewById(R.id.viewPager);
+        //455
 
         HomeFragment homeFragment = new HomeFragment();
         MyFragment myFragment = new MyFragment();
